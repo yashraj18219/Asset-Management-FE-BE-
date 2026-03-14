@@ -8,6 +8,10 @@
 - **Frontend Repository:**  
   https://github.com/yashraj18219/Asset-Management-FE
 
+  **Login Credentials(Super Admin)**
+  Email : user1@example.com
+  Password: password123
+
 - **Backend Repository:**  
   https://github.com/yashraj18219/Asset-Management-BE
 
