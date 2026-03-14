@@ -18,7 +18,7 @@
 ## 📊 System Architecture
 
 <p align="center">
-  <img src="./mermaid-diagram.png" width="900"/>
+  <img src="./mermaid-diagram.png" width="500"/>
 </p>
 
 ## 🔄 API Flow
