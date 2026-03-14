@@ -17,4 +17,10 @@
   <img src="./mermaid-diagram.png" width="900"/>
 </p>
 
+## 🔄 API Flow
+
+<p align="center">
+  <img src="./Screenshot 2026-03-14 143218.png" width="900"/>
+</p>
+
 
