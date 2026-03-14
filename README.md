@@ -1,2 +1,16 @@
-# Asset-Management ( Frontend ) : https://github.com/yashraj18219/asset-management-system-frontend
-# Asset-Management ( Backend ) : https://github.com/yashraj18219/asset-management-system-backend
+## Live Demo
+🔗 https://asset-management-system-frontend-ve-five.vercel.app/login
+
+---
+
+## Repositories
+
+- **Frontend Repository:**  
+  https://github.com/yashraj18219/Asset-Management-FE
+
+- **Backend Repository:**  
+  https://github.com/yashraj18219/Asset-Management-BE
+
+
+
+
