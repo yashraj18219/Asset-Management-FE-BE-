@@ -11,6 +11,10 @@
 - **Backend Repository:**  
   https://github.com/yashraj18219/Asset-Management-BE
 
+## 📊 System Architecture
 
+<p align="center">
+  <img src="./mermaid-diagram.png" width="900"/>
+</p>
 
 
